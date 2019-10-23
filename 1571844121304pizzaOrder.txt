@@ -1,0 +1,2 @@
+		Meat-choice: 1 beef,0 peperoni,0 anchovy,0 ham.		Veg-choice: 1 mushroom,0 onion,0 blackolives,0 pineapple.		Size-choice: Medium		delivery-choice: Eat-in
+				Total Price:4000.0 Rwf.

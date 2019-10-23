@@ -52,7 +52,7 @@ public class OptionSet{
 
         @Override
         public String toString() {
-            return "Option{" + "name=" + name + ", price=" + price + '}';
+            return "\n"+"optionName:" + name +"\t\n"+ "price:" + price+"\n";
         }
      
      
@@ -84,7 +84,7 @@ public class OptionSet{
 
     @Override
     public String toString() {
-        return "OptionSet{" + "name=" + name + ", choices=" + choices + '}';
+        return "\n\n"+"OpsetName:" + name +"\n"+"options:" + choices + "\n\n";
     }
    
    
